@@ -1,5 +1,10 @@
 # Kunden-Preview
 
+## Projekt-Gedaechtnis
+- **Projekt-Tag:** `allgemein`
+- Bei Session-Start: `search_memory(query="<Aufgabe>", project="allgemein")`
+- Neues Wissen speichern: `save_memory(title="...", content="...", tags=["allgemein"])`
+
 ## Zweck
 Statische HTML-Landingpages fuer Kunden-Konzeptvorschauen (A/B-Testing, SEO-optimiert).
 
